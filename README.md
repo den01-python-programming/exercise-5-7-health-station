@@ -21,7 +21,7 @@ Here is a main program where a health station weight two people:
 def main():
     # example main program for the first section of the exercise
 
-    HealthStation childrens_hospital = HealthStation()
+    childrens_hospital = HealthStation()
 
     ethan = Person("Ethan", 1, 110, 7)
     peter = Person("Peter", 33, 176, 85)
