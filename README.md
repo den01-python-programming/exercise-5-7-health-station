@@ -46,7 +46,7 @@ Following is an example where people are weighed first, and then ethan is fed th
 
 ```python
 def main():
-    HealthStation childrens_hospital = HealthStation()
+    childrens_hospital = HealthStation()
 
     ethan = Person("Ethan", 1, 110, 7)
     peter = Person("Peter", 33, 176, 85)
